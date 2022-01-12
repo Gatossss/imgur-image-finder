@@ -20,6 +20,6 @@ def main():
             hook.send(r.url)
 
 
-for x in range(69):
+for x in range(20):
     threading.Thread(target=main).start()
  
